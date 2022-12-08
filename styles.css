@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: #888C8D;
+    background-image: url(https://img.freepik.com/free-photo/full-frame-stone-wall-background_23-2148095955.jpg?w=2000);
+}
+
+h1{
+    border: 2px solid black;
+    margin: 10px;
+    margin-left: 550px;
+    margin-right: 550px;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: -3px;
+    font-variation-settings: "wght" 311;
+    margin-bottom: 0.8rem;
+    background-color: white;
+    
+}
+
+a {
+    color: #000;
+}
+
+.block {
+    border: 2px solid black;
+    margin: 10px;
+    margin-left: 750px;
+    margin-right: 750px;  
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #ffffff;
+    position: relative
+  }
